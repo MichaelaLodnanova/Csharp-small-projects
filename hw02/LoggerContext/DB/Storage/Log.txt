@@ -1,0 +1,11 @@
+[19. 03. 2023 16:36:42] Add; Category; Success; 1; Electrinics
+[19. 03. 2023 16:36:42] Add; Category; Success; 2; Books
+[19. 03. 2023 16:36:42] Add; Category; Success; 3; Clothing
+[19. 03. 2023 16:36:42] Add; Product; Success; 1; iPhone; 1
+[19. 03. 2023 16:36:42] Add; Product; Success; 2; Samsung Galaxy; 1
+[19. 03. 2023 16:36:42] Add; Product; Success; 3; The Great Gatsby; 2
+[19. 03. 2023 16:36:42] Add; Product; Success; 4; To Kill a Mockingbird; 2
+[19. 03. 2023 16:36:42] Add; Product; Success; 5; T-shirt; 3
+[19. 03. 2023 16:36:42] Add; Product; Success; 6; Jeans; 3
+[19. 03. 2023 16:36:45] Add; Category; Success; 4; 1
+[19. 03. 2023 16:36:48] Add; Category; Success; 5; 1
